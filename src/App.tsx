@@ -1,4 +1,3 @@
-import React from "react"
 import { Route, Routes } from "react-router-dom"
 import { PageWrapper } from "./components/PageWrapper"
 import CharacterPage from "./pages/CharacterPage"
